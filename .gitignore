@@ -33,5 +33,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts public/photos-original/
+next-env.d.ts
+public/photos-original/
 public/photos/
