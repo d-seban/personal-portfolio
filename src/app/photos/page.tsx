@@ -40,9 +40,16 @@ export default function PhotosPage() {
               id: 1,
               src: "/photos/sample1.jpg",
               alt: "Sample photo",
+              title: "Sample Photo",
+              place: "Your Location",
+              state: "Your State",
+              country: "Your Country",
+              flag: "📸",
               year: "2024",
-              location: "Add your photos to /public/photos/",
-              description: "Run 'npm run generate-photos' to auto-generate this data"
+              location: "📸 Add your photos to /public/photos/",
+              description: "Run 'npm run generate-photos' to auto-generate this data",
+              filename: "sample1.jpg",
+              fullLocation: "Your Location, Your State"
             }
           ]);
         }
@@ -53,9 +60,16 @@ export default function PhotosPage() {
             id: 1,
             src: "/photos/sample1.jpg",
             alt: "Sample photo",
+            title: "Sample Photo",
+            place: "Your Location",
+            state: "Your State",
+            country: "Your Country",
+            flag: "📸",
             year: "2024",
-            location: "Add your photos to /public/photos/",
-            description: "Run 'npm run generate-photos' to auto-generate this data"
+            location: "📸 Add your photos to /public/photos/",
+            description: "Run 'npm run generate-photos' to auto-generate this data",
+            filename: "sample1.jpg",
+            fullLocation: "Your Location, Your State"
           }
         ]);
       } finally {
