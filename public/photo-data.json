@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "src": "/photos/Before the Bell Rings - Chokling Monastery, Himachal, India, 2020.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943337/Before_the_Bell_Rings_-_Chokling_Monastery_Himachal_India_2020_owjhjg.jpg",
     "alt": "Before the Bell Rings",
     "title": "Before the Bell Rings",
     "place": "Chokling Monastery",
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "src": "/photos/Dance of Fire and Flesh - Rajadamnern  Stadium, Bangkok, Thailand, 2025.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943337/Dance_of_Fire_and_Flesh_-_Rajadamnern_Stadium_Bangkok_Thailand_2025_vj1gqy.jpg",
     "alt": "Dance of Fire and Flesh",
     "title": "Dance of Fire and Flesh",
     "place": "Rajadamnern  Stadium",
@@ -33,7 +33,7 @@
   },
   {
     "id": 3,
-    "src": "/photos/Face of the Frontier - Thang, Ladakh, India, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943339/Face_of_the_Frontier_-_Thang_Ladakh_India_2023_dgjmap.jpg",
     "alt": "Face of the Frontier",
     "title": "Face of the Frontier",
     "place": "Thang",
@@ -49,7 +49,7 @@
   },
   {
     "id": 4,
-    "src": "/photos/Flames for the Infinite - Varanasi, Uttar Pradesh, India, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943338/Flames_for_the_Infinite_-_Varanasi_Uttar_Pradesh_India_2023_veajfe.jpg",
     "alt": "Flames for the Infinite",
     "title": "Flames for the Infinite",
     "place": "Varanasi",
@@ -65,7 +65,7 @@
   },
   {
     "id": 5,
-    "src": "/photos/Grace Beneath the Spire - Wat Arun, Bankok, Thailand, 2025.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943338/Grace_Beneath_the_Spire_-_Wat_Arun_Bankok_Thailand_2025_lfwkgk.jpg",
     "alt": "Grace Beneath the Spire",
     "title": "Grace Beneath the Spire",
     "place": "Wat Arun",
@@ -81,7 +81,7 @@
   },
   {
     "id": 6,
-    "src": "/photos/Oars Through Memory - Srinagar, Kashmir, India, 2022.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943336/Oars_Through_Memory_-_Srinagar_Kashmir_India_2022_f9pru8.jpg",
     "alt": "Oars Through Memory",
     "title": "Oars Through Memory",
     "place": "Srinagar",
@@ -97,7 +97,7 @@
   },
   {
     "id": 7,
-    "src": "/photos/Peace Between Peaks - Diskit Monastery, Ladakh, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943339/Peace_Between_Peaks_-_Diskit_Monastery_Ladakh_2023_cwvvsg.jpg",
     "alt": "Peace Between Peaks",
     "title": "Peace Between Peaks",
     "place": "Diskit Monastery",
@@ -113,7 +113,7 @@
   },
   {
     "id": 8,
-    "src": "/photos/Petals, Prayers, and Paper Lanterns - Talat Noi, Chinatown, Thailand, 2025.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943337/Petals_Prayers_and_Paper_Lanterns_-_Talat_Noi_Chinatown_Thailand_2025_tfanfh.jpg",
     "alt": "Petals, Prayers, and Paper Lanterns",
     "title": "Petals, Prayers, and Paper Lanterns",
     "place": "Talat Noi",
@@ -129,7 +129,7 @@
   },
   {
     "id": 9,
-    "src": "/photos/Reflections of Solitude - Nubra Valley, Ladakh, India, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943338/Reflections_of_Solitude_-_Nubra_Valley_Ladakh_India_2023_z9uajz.jpg",
     "alt": "Reflections of Solitude",
     "title": "Reflections of Solitude",
     "place": "Nubra Valley",
@@ -145,7 +145,7 @@
   },
   {
     "id": 10,
-    "src": "/photos/Sentinel of the Silence - Pulga Valley, Ladakh, India, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943339/Sentinel_of_the_Silence_-_Pulga_Valley_Ladakh_India_2023_an9eri.jpg",
     "alt": "Sentinel of the Silence",
     "title": "Sentinel of the Silence",
     "place": "Pulga Valley",
@@ -161,7 +161,7 @@
   },
   {
     "id": 11,
-    "src": "/photos/Still Lake, Moving Soul - Dal Lake, Kashmir, India, 2022.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943339/Still_Lake_Moving_Soul_-_Dal_Lake_Kashmir_India_2022_jewiky.jpg",
     "alt": "Still Lake, Moving Soul",
     "title": "Still Lake, Moving Soul",
     "place": "Dal Lake",
@@ -177,7 +177,7 @@
   },
   {
     "id": 12,
-    "src": "/photos/Stillness Beyond the Clouds - Stok, Ladakh, India, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943339/Stillness_Beyond_the_Clouds_-_Stok_Ladakh_India_2023_anwnep.jpg",
     "alt": "Stillness Beyond the Clouds",
     "title": "Stillness Beyond the Clouds",
     "place": "Stok",
@@ -193,7 +193,7 @@
   },
   {
     "id": 13,
-    "src": "/photos/Sun-Dried Heritage - Turtuk, Ladakh, India, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943339/Sun-Dried_Heritage_-_Turtuk_Ladakh_India_2023_mokrvl.jpg",
     "alt": "Sun-Dried Heritage",
     "title": "Sun-Dried Heritage",
     "place": "Turtuk",
@@ -209,7 +209,7 @@
   },
   {
     "id": 14,
-    "src": "/photos/The River Remembers - Kasol, Himachal, India, 2020.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943339/The_River_Remembers_-_Kasol_Himachal_India_2020_zofbmg.jpg",
     "alt": "The River Remembers",
     "title": "The River Remembers",
     "place": "Kasol",
@@ -225,7 +225,7 @@
   },
   {
     "id": 15,
-    "src": "/photos/Tied to the Wind, Bound to the Moment - Sinquerim Beach, Goa, India, 2024.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943340/Tied_to_the_Wind_Bound_to_the_Moment_-_Sinquerim_Beach_Goa_India_2024_wylfxk.jpg",
     "alt": "Tied to the Wind, Bound to the Moment",
     "title": "Tied to the Wind, Bound to the Moment",
     "place": "Sinquerim Beach",
@@ -241,7 +241,7 @@
   },
   {
     "id": 16,
-    "src": "/photos/Weightless in the Wind - Bir, Himachal, India, 2020.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943340/Weightless_in_the_Wind_-_Bir_Himachal_India_2020_pni1sk.jpg",
     "alt": "Weightless in the Wind",
     "title": "Weightless in the Wind",
     "place": "Bir",
@@ -257,7 +257,7 @@
   },
   {
     "id": 17,
-    "src": "/photos/Where Blue Holds Its Breath - Nang Yuan Island, Koh Tao, Thailand, 2025.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943340/Where_Blue_Holds_Its_Breath_-_Nang_Yuan_Island_Koh_Tao_Thailand_2025_njo1lh.jpg",
     "alt": "Where Blue Holds Its Breath",
     "title": "Where Blue Holds Its Breath",
     "place": "Nang Yuan Island",
@@ -273,7 +273,7 @@
   },
   {
     "id": 18,
-    "src": "/photos/Where Heaven Touches Earth - Sonamarg, Kashmir, India, 2022.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943340/Where_Heaven_Touches_Earth_-_Sonamarg_Kashmir_India_2022_mfjbi8.jpg",
     "alt": "Where Heaven Touches Earth",
     "title": "Where Heaven Touches Earth",
     "place": "Sonamarg",
@@ -289,7 +289,7 @@
   },
   {
     "id": 19,
-    "src": "/photos/Where the River Forgets the Land - Cola Beach, Goa, India, 2024.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943340/Where_the_River_Forgets_the_Land_-_Cola_Beach_Goa_India_2024_e8lonu.jpg",
     "alt": "Where the River Forgets the Land",
     "title": "Where the River Forgets the Land",
     "place": "Cola Beach",
@@ -305,7 +305,7 @@
   },
   {
     "id": 20,
-    "src": "/photos/Where the Sky Drinks Blue - Pangong Tso, Ladakh, India, 2023.JPG",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943340/Where_the_Sky_Drinks_Blue_-_Pangong_Tso_Ladakh_India_2023_xm4fhf.jpg",
     "alt": "Where the Sky Drinks Blue",
     "title": "Where the Sky Drinks Blue",
     "place": "Pangong Tso",
@@ -321,7 +321,7 @@
   },
   {
     "id": 21,
-    "src": "/photos/Whispers in the Pines - Gulmarg, Kashmir, India, 2022.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943341/Whispers_in_the_Pines_-_Gulmarg_Kashmir_India_2022_abwfvv.jpg",
     "alt": "Whispers in the Pines",
     "title": "Whispers in the Pines",
     "place": "Gulmarg",
@@ -337,7 +337,7 @@
   },
   {
     "id": 22,
-    "src": "/photos/Wood Carves the Infinite - Sanctuary of Truth, Pattaya, Thailand, 2025.jpg",
+    "src": "https://res.cloudinary.com/digjqqfju/image/upload/v1753943341/Wood_Carves_the_Infinite_-_Sanctuary_of_Truth_Pattaya_Thailand_2025_axhigd.jpg",
     "alt": "Wood Carves the Infinite",
     "title": "Wood Carves the Infinite",
     "place": "Sanctuary of Truth",
