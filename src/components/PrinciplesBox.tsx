@@ -38,7 +38,7 @@ export default function PrinciplesBox() {
     }, 4000) // Change every 4 seconds
 
     return () => clearInterval(interval)
-  }, [])
+  }, [principles.length])
 
   return (
     <div className="border border-gray-200 dark:border-[#303030] dark:bg-[#121212] rounded-xl p-3 transition-colors">
